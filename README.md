@@ -65,7 +65,7 @@ Building With      │ React Artifacts, Google Sheets API, GitHub
 
 - 📧 ready2onboard@gmail.com
 - 📍 Austin, Texas (100% Remote)
-- 💼 [LinkedIn](https://linkedin.com/in/melvinpigee) ← *(update with your actual URL)*
+- 💼 [LinkedIn](https://linkedin.com/in/melvinpigee)
 
 ---
 
